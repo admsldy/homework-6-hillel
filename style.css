@@ -9,40 +9,43 @@ td {
     border: 5px solid #000;
 }
 
-.yellow {
-    background-color: gold;
-}
-
 .flat {
     height: 30px;
 }
 
 .slim {
     width: 30px;
-}
+} 
 
 .big {
-    height: 80px;
-    width: 80px;
-}
-
-.red {
-    background-color: red;
+    height: 15px;
+    width: 15px;
 }
 
 .tall {
-    height: 40px;
-    width: 55px;
+    height: 5px;
+}
+
+.left {
+    width: 60px;
+}
+.square {
+    width: 1px;
+    height: 5px;
+}
+
+.blue {
+    background-color: darkblue;
 }
 
 .black {
     background-color: black;
 }
 
-.square {
-    width: 25px;
+.red {
+    background-color: red;
 }
 
-.blue {
-    background-color: darkblue;
+.yellow {
+    background-color: gold;
 }
